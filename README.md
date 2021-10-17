@@ -2,7 +2,7 @@
 
  
 
-## I'm (SEU NOME)!
+## I'm Gustavo!
 
  
 
@@ -20,13 +20,7 @@
 
 - Enjoy it!! o/
 
-----------------------------------------------------------------------------------
-
-*OBS onde está escrito em maiúsculo você deve escrever suas informações:
-
-(Gustavo) = Gustavo.
-
-gustavogpassos = https://github.com/gustavogpassos.
+https://github.com/gustavogpassos.
 
 <!--
 **gustavogpassos/gustavogpassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
