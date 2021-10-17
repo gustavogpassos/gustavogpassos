@@ -1,4 +1,32 @@
-### Hi there 👋
+# Welcome!
+
+ 
+
+## I'm (SEU NOME)!
+
+ 
+
+:computer: I'm Front-End Developer!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+:outbox_tray: 2021 Goals: create a new project and find a new job.
+
+
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
+
+----------------------------------------------------------------------------------
+
+*OBS onde está escrito em maiúsculo você deve escrever suas informações:
+
+(Gustavo) = Gustavo.
+
+gustavogpassos = https://github.com/gustavogpassos.
 
 <!--
 **gustavogpassos/gustavogpassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
