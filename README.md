@@ -1,38 +1,23 @@
-# Welcome!
+# Olá, tudo bem!!!
+ 
+
+## Me chamo Gustavo!
 
  
 
-## I'm Gustavo!
+:computer: Sou desenvolvedor back-end, trabalho princiaplmente com php
 
- 
+:house_with_garden: Sou de Lagoa Vermelha/RS - Brasil
 
-:computer: I'm Front-End Developer!
+:books: Estou atualmente estudando sobre Nodejs
 
-:house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning everything.
-
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: Quero poder aprender com todos e ajudar a todos.
 
 
 
-- Thanks for visiting.
+- Obrigado pela visita.
 
 - Enjoy it!! o/
 
-https://github.com/gustavogpassos.
+https://github.com/gustavogpassos
 
-<!--
-**gustavogpassos/gustavogpassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
