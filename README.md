@@ -1,9 +1,9 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
  
 
-## Me chamo Gustavo!
+## Olá, tudo bem?
 
- 
+ Meu nome é Gustavo!
 
 :computer: Sou desenvolvedor back-end, trabalho principalmente com PHP 🐘
 
