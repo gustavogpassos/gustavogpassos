@@ -2,7 +2,7 @@
 
 **Software Engineer** — Backend-focused, working across the full stack
 
-Software Engineer with 5+ years of experience spanning systems analysis, IT coordination, and full-stack/backend development. Track record of building scalable web applications, self-service platforms, and third-party API integrations. Based in Brazil, fluent in English (C1), and open to remote and international opportunities.
+Hi, I'm Gustavo! I'm a Software Engineer with 5+ years of experience spanning systems analysis, IT coordination, and full-stack/backend development. I enjoy building scalable web applications, self-service platforms, and third-party API integrations, and I'm always up for a good conversation about code. Based in Brazil, fluent in English (C1), and open to remote and international opportunities.
 
 ## Tech Stack
 
@@ -37,12 +37,9 @@ Software Engineer with 5+ years of experience spanning systems analysis, IT coor
 
 Portuguese (Native) · English (Professional Working Proficiency — C1)
 
-## GitHub Stats
+## Let's Connect
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavogpassos&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogpassos&layout=compact&hide_border=true)
-
-## Connect
+Always happy to talk tech, collaborate on projects, or hear about new opportunities — feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-g-passos/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:girardigustavo.03@gmail.com)
